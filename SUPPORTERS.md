@@ -1,4 +1,4 @@
-[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)][BMC]
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)][Tribute]
 
 # Supporters
 
@@ -6,6 +6,19 @@ You keep our ship afloat.
 
 ## Coffee
 
+- **[Michel Rodriguez][Boosty]** ☕☕
+- **[Faggianotti][Boosty]** ☕
+- **[Rigo Pex][Boosty]** ☕
+- **[Melissa Ritchie][Boosty]** ☕☕
+- **[Alexey Galinsky][Boosty]** ☕
+- **[Peter Kilgour][Boosty]** ☕☕☕☕
+- **[Bruno Unna][Boosty]** ☕☕
+- **[lil tizzy][Boosty]** ☕
+- **[oxy63n.me](https://oxy63n.me/)** ☕☕
+- **[Someone][BMC]** ☕
+- **[Michel Rodriguez][BMC]** ☕☕ *Thanks a lot for that, it's a really nice app, i used it on several tracks and gives very good results ! :-)*
+- **[Wolfram][BMC]** ☕☕ *Very impressive - I think I'll use this very often! Thank you!*
+- **[adamsouthside][BMC]** ☕☕ *Thanks very much I think this is helpful to make a better mastered sound ... Great work!*
 - **[Torsten Torsten](https://www.buymeacoffee.com/torstentorsten)** ☕☕☕
 - **[Tony B][BMC]** ☕ *Excellent Excellent EXCELLENT!!!!*
 - **[petr.kautz@gmail.com][BMC]** ☕ *Ethiopian Harrar, have a good time, thanks Petr*
@@ -37,6 +50,8 @@ You keep our ship afloat.
 
 ## Social Media
 
+- **[Cristian Vogel](https://twitter.com/neverenginelabs)**
+- **[SLAVA BASYUL](https://www.youtube.com/channel/UCsbS60o4lEjXcicQiMi912A)**
 - **[cubase.ninja](https://cubase.ninja/)**
 - **[Beat Hackers](https://soundcloud.com/beat-hackers)**
 - **[Somnia](https://soundcloud.com/somnia)**
@@ -66,3 +81,6 @@ Special thanks to the members and the staff of the **[AudioSEX - Professional Au
 [PyCharm]: https://www.jetbrains.com/pycharm/?from=Matchering
 [WebStorm]: https://www.jetbrains.com/webstorm/?from=Matchering
 [BMC]: https://www.buymeacoffee.com/sergree
+[Boosty]: https://boosty.to/sergree
+[PIPME]: https://pip.me/sergree
+[Tribute]: https://t.me/tribute/app?startapp=de85

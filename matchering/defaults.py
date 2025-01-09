@@ -2,7 +2,7 @@
 
 """
 Matchering - Audio Matching and Mastering Python Library
-Copyright (C) 2016-2021 Sergree
+Copyright (C) 2016-2022 Sergree
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -64,7 +64,7 @@ class Config:
         internal_sample_rate: int = 44100,
         max_length: float = 15 * 60,
         max_piece_size: float = 15,
-        threshold: float = (2 ** 15 - 61) / 2 ** 15,
+        threshold: float = (2**15 - 61) / 2**15,
         min_value: float = 1e-6,
         fft_size: int = 4096,
         lin_log_oversampling: int = 4,
